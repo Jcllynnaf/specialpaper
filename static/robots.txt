@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://justcode.my.id/sitemap.xml
